@@ -1,4 +1,4 @@
-# open-diamante
+# diamante
 Open Diamante is an open-source project that creates a community around the use of SUSE software.
 
 Examples include:
